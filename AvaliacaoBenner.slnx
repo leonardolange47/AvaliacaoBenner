@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AvaliacaoBenner.Test/AvaliacaoBenner.Test.csproj" />
+  <Project Path="AvaliacaoBenner/AvaliacaoBenner.csproj" />
+</Solution>

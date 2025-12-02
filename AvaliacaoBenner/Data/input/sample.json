@@ -1,0 +1,18 @@
+[
+  {
+    "Cnpj": "12345678000199",
+    "Name": "Empresa Exemplo Ltda",
+    "Phone": "47999990000",
+    "Documents": [
+      {
+        "Model": "NF",
+        "Number": "0001",
+        "Value": 30.00,
+        "Items": [
+          { "ItemNumber": 1, "Description": "Item A", "Value": 10.00, "Categories": [ { "Number": 1, "Description": "Cat1" } ] },
+          { "ItemNumber": 2, "Description": "Item B", "Value": 20.00 }
+        ]
+      }
+    ]
+  }
+]
